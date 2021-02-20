@@ -56,7 +56,7 @@ setup()
 
 # 测试代码，本模块被别的模块引入的时候，不会执行下面的代码
 if __name__ == '__main__':
-    save(Joke('笑话Test', '笑话内容test', 'https://www.joke.com/1.html'))
+    # save(Joke('笑话Test', '笑话内容test', 'https://www.joke.com/1.html'))
     # save(Joke('笑话Test2', '笑话内容test', 'https://www.joke.com/2.html'))
     print('========打印一下所有的笑话======')
     for joke_1 in get_jokes():
