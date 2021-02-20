@@ -1,4 +1,4 @@
-# 爬虫(pc)百度翻译(by)
+# reptile(pc)百度翻译(by)
 import requests
 import json
 url = "https://fanyi.baidu.com/sug"

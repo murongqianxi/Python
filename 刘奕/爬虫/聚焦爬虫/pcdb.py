@@ -1,4 +1,4 @@
-# 爬虫(pc)豆瓣排行榜(db)
+# reptile(pc)豆瓣排行榜(db)
 from typing import List, Any
 
 import requests
