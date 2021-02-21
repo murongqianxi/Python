@@ -15,5 +15,4 @@ while True:
         break
     yui = int(yui)
     c2f = abc_efg(poi, yui)
-    print('三角'
-          '形的面积是:', c2f, '平方厘米\n')
+    print('三角形的面积是:', c2f, '平方厘米\n')
