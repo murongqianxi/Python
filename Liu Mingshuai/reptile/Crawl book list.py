@@ -4,7 +4,6 @@
 # @File : Crawl book list.py
 
 import requests
-import json
 import time
 import csv
 import datetime
@@ -28,13 +27,12 @@ def get_page(page=1):
     url = f'https://www.epubit.com/pubcloud/content/front/portal/getUbookList?page={page}&row=20&=&startPrice=&endPrice=&tagId='
     headers = {'Origin-Domain': 'www.epubit.com'}
     res = requests.get(url, headers=headers)
-    return parse_book(res.text)
+    return parse_book(res.json())
 
 
 def parse_book(json_text):
     book = []
-    book_json = json.loads(json_text)
-    records = book_json['data']['records']
+    records = json_text['data']['records']
     for r in records:
         author = r['authors']
         name = r['name']

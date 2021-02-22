@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Joke robot\README.md">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Joke robot\joke_gui.py">
           <value>
             <Attribute>
@@ -18,6 +25,20 @@
           </value>
         </entry>
         <entry key="\data analysis\date.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reptile\Crawl book list.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reptile\book_list_20210222_142536.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
