@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Liu Mingshuai\Joke robot\joke_mysql.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Liu Mingshuai\Joke robot\joke_ui.py">
           <value>
             <Attribute>

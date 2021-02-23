@@ -4,12 +4,12 @@
 # @File : joke_ui.py
 
 import random
-import joke_mysql
+import joke_sqlite
 from speaker import tell_joke
 import time
 import sys
 
-jokes = joke_mysql.get_jokes()
+jokes = joke_sqlite.get_jokes()
 
 if len(jokes) == 0:
     print('数据库还没有任何笑话，请先运行joke_crawler.py抓取笑话，再来唤醒我')

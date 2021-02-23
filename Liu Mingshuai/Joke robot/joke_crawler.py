@@ -7,7 +7,7 @@ import requests
 import bs4
 import time
 import random
-import joke_mysql
+import joke_sqlite
 from joke import Joke
 
 # 起始url
@@ -46,7 +46,7 @@ count = 0
 for i in range(0, 10):
     joke, next_url = craw_joke(url)
     if joke:
-        joke_mysql.save(joke)
+        joke_sqlite.save(joke)
         print(joke)
         url = host + next_url
     print('歇一会再抓！')

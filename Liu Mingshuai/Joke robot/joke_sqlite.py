@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2021/2/19 14:22
 # @Author : Liu Mingshuai
-# @File : joke_db.py
+# @File : joke_sqlite.py
 
 import sqlite3
 from joke import Joke
@@ -33,7 +33,7 @@ def save(joke):
         if has_joke:
             print('重复了，不再插入')
         else:
-            con.execute('INSERT INTO jokes(title, detail, url) VALUES (?,?,?)', (joke.title, joke.detail, joke.url))
+            con.execute("INSERT INTO jokes (title, detail, url) VALUES (?,?,?)", (joke.title, joke.detail, joke.url))
             print('笑话保存成功')
 
 

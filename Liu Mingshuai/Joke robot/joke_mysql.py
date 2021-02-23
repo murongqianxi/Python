@@ -43,7 +43,7 @@ def save(jokes):
     if has_joke:
         print('重复了，不再插入')
     else:
-        cur.execute("INSERT INTO joke(title, detail, url) "
+        cur.execute("INSERT INTO joke (title, detail, url)"
                     "VALUE (%s, %s, %s)", (jokes.title, jokes.detail, jokes.url))
         con.commit()
         print('笑话保存成功')

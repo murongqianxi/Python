@@ -8,12 +8,15 @@
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/Liu Mingshuai/Joke robot/jokeDB.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="jokes@localhost" uuid="b235086f-77f3-4118-bcdf-b64218b365dd">
+    <data-source source="LOCAL" name="jokes" uuid="0d448e39-5eac-438e-bfbf-8dcb089750ae">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/jokes</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="serverTimezone" value="UTC" />
+      </driver-properties>
     </data-source>
   </component>
 </project>
