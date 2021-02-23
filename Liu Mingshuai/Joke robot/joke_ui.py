@@ -4,14 +4,12 @@
 # @File : joke_ui.py
 
 import random
-from joke import Joke
-import joke_db
+import joke_mysql
 from speaker import tell_joke
 import time
-import os
 import sys
 
-jokes = joke_db.get_jokes()
+jokes = joke_mysql.get_jokes()
 
 if len(jokes) == 0:
     print('数据库还没有任何笑话，请先运行joke_crawler.py抓取笑话，再来唤醒我')
@@ -29,18 +27,16 @@ while True:
 
     try:
         count = int(cmd)
+        if count > 5:
+            count = 5
+        for i in range(1, count+1):
+            # 随机获取笑话
+            joke = jokes[random.randint(0, len(jokes)-1)]
+
+            # 调用讲笑话接口
+            tell_joke(joke.id, joke.title, joke.detail)
+
+            # 休息0.5秒
+            time.sleep(0.5)
     except Exception as identifier:
         print('请输入正确的数字')
-
-    if count > 5:
-        count = 5
-
-    for i in range(1, count+1):
-        # 随机获取笑话
-        joke = jokes[random.randint(0, len(jokes)-1)]
-
-        #调用讲笑话接口
-        tell_joke(joke.id, joke.title, joke.detail)
-
-        # 休息0.5秒
-        time.sleep(0.5)

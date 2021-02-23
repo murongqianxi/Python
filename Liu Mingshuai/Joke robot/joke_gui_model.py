@@ -4,12 +4,11 @@
 # @File : joke_gui_model.py
 
 import random
-from joke import Joke
-import joke_db
+import joke_mysql
 from speaker import tell_joke
 
 # 加载所有笑话，所以你需要先有笑话才能运行。如果还没有，可以运行joke_crawler.py抓取笑话
-jokes = joke_db.get_jokes()
+jokes = joke_mysql.get_jokes()
 
 
 def select_jokes(count=1):

@@ -7,11 +7,11 @@ import requests
 import bs4
 import time
 import random
-import joke_db
+import joke_mysql
 from joke import Joke
 
 # 起始url
-url = 'https://xiaohua.zol.com.cn/detail1/73.html'
+url = 'https://xiaohua.zol.com.cn/detail1/43.html'
 
 # 网站的域名地址，用来拼接完整地址
 host = 'http://xiaohua.zol.com.cn'
@@ -46,7 +46,7 @@ count = 0
 for i in range(0, 10):
     joke, next_url = craw_joke(url)
     if joke:
-        joke_db.save(joke)
+        joke_mysql.save(joke)
         print(joke)
         url = host + next_url
     print('歇一会再抓！')
