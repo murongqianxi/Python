@@ -16,10 +16,14 @@ It is a robot that can tell jokes, of course you can also choose to read the jok
   If you don't want to use MySQL, you don't need to install it.
 
 **Method of installing third-party libraries:**
-Enter the following commands on cmd, only one at a time, and then press Enter.(This method only works on Windows.)
+Enter the following commands in cmd, only one at a time, and then press Enter.(This method only works on Windows.)
 * pip install requests
 * pip install bs4
 * pip install pyqt5 
 * pip install pyttsx3
 * pip install pymysql
 sqlite 3 is built-in in Python and does not need to be installed separately.
+  
+## How to use:
+Navigate to the folder where all the code information is stored in cmd and enter the following command:
+`joke_gui.py`
