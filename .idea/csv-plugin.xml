@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Liu Mingshuai\ICS3U Tetris Game_download\README.md">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Liu Mingshuai\Joke robot\README.md">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Liu Mingshuai\Joke robot\joke_crawler.py">
           <value>
             <Attribute>
@@ -25,6 +39,13 @@
           </value>
         </entry>
         <entry key="\Liu Mingshuai\Joke robot\joke_mysql.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Liu Mingshuai\Joke robot\joke_sqlite.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
