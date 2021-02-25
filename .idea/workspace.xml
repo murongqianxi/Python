@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b8e462-2508-4744-a9a1-d1984ce0e5e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0d448e39-5eac-438e-bfbf-8dcb089750ae.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0d448e39-5eac-438e-bfbf-8dcb089750ae.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/pio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/qu1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/tks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/tkx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/tky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/tkz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/sc/荒岛漂流者.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/tank/移动的坦克.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/tank/飞速的坦克.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/图片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/移动的球/ydcore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/移动的球/ydmod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/pygame/移动的球/按钮.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/正则表达式/sg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/正则表达式/zbm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/爬虫/数据解析/pcbp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/爬虫/聚焦爬虫/pcby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/爬虫/聚焦爬虫/pcdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/刘奕/爬虫/聚焦爬虫/pcres.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +204,9 @@
       <workItem from="1614048054541" duration="138000" />
       <workItem from="1614053612769" duration="197000" />
       <workItem from="1614054180180" duration="17986000" />
-      <workItem from="1614134023473" duration="5114000" />
+      <workItem from="1614134023473" duration="5451000" />
+      <workItem from="1614225096048" duration="10000" />
+      <workItem from="1614225125262" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="更新文件">
       <created>1614048097974</created>
@@ -217,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614139123346</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新README.md文件">
+      <created>1614140252652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614140252652</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
