@@ -2,213 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b8e462-2508-4744-a9a1-d1984ce0e5e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/my_website/my_first_website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/Liu Mingshuai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/Liu Mingshuai.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/csv-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/dataSources/dfcd05e6-015e-4078-b90d-0a263551c3d6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/dataSources/dfcd05e6-015e-4078-b90d-0a263551c3d6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Applets/Measure the area of ​​a triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Applets/Measure the area of ​​a triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Applets/Question Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Applets/Question Bank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Applets/Roll the dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Applets/Roll the dice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Applets/User login.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Applets/User login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-databases.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-databases.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-db-blog.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-db-blog.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-db-hr.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-db-hr.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-db-inventory.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-db-inventory.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-db-invoicing.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-db-invoicing.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-db-store.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-db-store.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/create-payments-table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/create-payments-table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Code With Mosh - MySQL课程文件/load_1000_customers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/Code With Mosh - MySQL/load_1000_customers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/Download data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/Download data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/Use API.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/Use API.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/World population map.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/World population map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/americas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/americas.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/file1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/file1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/file2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/file2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/file3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/file3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/population_json.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/population_json.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Download data/python_repos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/Download data/python_repos.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Music/kalinka.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Music/kalinka.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Music/katyusha.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Music/katyusha.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Music/korobushka.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Music/korobushka.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Music/smuglianka.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Music/smuglianka.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/cube-block-checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/cube-block-checkpoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/i-block-checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/i-block-checkpoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/r-s-block-checkpoint.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/.ipynb_checkpoints/r-s-block-checkpoint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/L-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/L-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/cube-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/cube-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/i-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/i-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/j-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/j-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/r-s-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/r-s-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/s-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/s-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Previews/t-block.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Previews/t-block.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Sounds/block-rotate.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Sounds/block-rotate.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Sounds/force-hit.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Sounds/force-hit.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Sounds/line-remove.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Sounds/line-remove.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Sounds/slow-hit.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Sounds/slow-hit.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Sounds/tetris-remove.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Sounds/tetris-remove.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/Tetris.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/Tetris.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/images/Intro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/images/Intro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/images/Outro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/images/Outro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/images/Tetris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/images/Tetris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/ICS3U Tetris Game_download/images/gridBG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code/ICS3U Tetris Game_download/images/gridBG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/jokeDB.db" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/jokeDB.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_gui_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_gui_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_sqlite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/joke_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/joke_ui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/robot.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/robot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/Joke robot/speaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Joke robot/speaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data analysis/date.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/data analysis/date.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data analysis/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/data analysis/numpy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data analysis/pandas1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/data analysis/pandas1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data analysis/pandas2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/data analysis/pandas2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/Random walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/Random walk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/Roll the dice(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/Roll the dice(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/Roll the dice(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/Roll the dice(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/Roll the dice(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/Roll the dice(3).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/data visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/data visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/die_visual(1).svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/die_visual(1).svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/die_visual(2).svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/die_visual(2).svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/data visualization/die_visual(3).svg" beforeDir="false" afterPath="$PROJECT_DIR$/code/data visualization/die_visual(3).svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_1/images/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_1/images/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_1/images/gameover.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_1/images/gameover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_1/images/shoot.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_1/images/shoot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_1/score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_1/score.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/bullet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/font/font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/font/font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/again.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/again.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/bomb.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/bomb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/bomb_supply.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/bomb_supply.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/bullet1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/bullet1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/bullet2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/bullet2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/bullet_supply.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/bullet_supply.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy1_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy1_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy1_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy1_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy1_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy1_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy1_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy1_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy2_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy2_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down5.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_down6.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_down6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_n1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_n1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/enemy3_n2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/enemy3_n2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/gameover.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/gameover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/life.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/life.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me_destroy_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me_destroy_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me_destroy_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me_destroy_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me_destroy_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me_destroy_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/me_destroy_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/me_destroy_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/pause_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/pause_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/pause_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/pause_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/resume_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/resume_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/images/resume_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/images/resume_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/myplane.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/myplane.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/bullet.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/bullet.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/button.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/button.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/enemy1_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/enemy1_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/enemy2_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/enemy2_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/enemy3_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/enemy3_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/enemy3_flying.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/enemy3_flying.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/game_music.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/game_music.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/get_bomb.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/get_bomb.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/get_bullet.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/get_bullet.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/me_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/me_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/supply.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/supply.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/upgrade.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/upgrade.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/sound/use_bomb.wav" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/sound/use_bomb.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/Aircraft war_2/supply.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/Aircraft war_2/supply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/demo/level_1_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/demo/level_1_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/demo/level_1_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/demo/level_1_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/demo/level_1_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/demo/level_1_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/demo/level_1_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/demo/level_1_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/enemies.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/enemies.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/item_objects.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/item_objects.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/level_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/level_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/level_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/level_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/level_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/level_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/level_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/level_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/mario_bros.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/mario_bros.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/smb_enemies_sheet.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/smb_enemies_sheet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/text_images.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/text_images.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/tile_set.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/tile_set.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/resources/graphics/title_screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/resources/graphics/title_screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/box.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/brick.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/brick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/coin.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/coin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/info.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/powerup.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/powerup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/components/stuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/components/stuff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/maps/level_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/maps/level_1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/maps/level_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/maps/level_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/maps/level_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/maps/level_3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/maps/level_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/maps/level_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/player/luigi.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/player/luigi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/data/player/mario.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/data/player/mario.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/states/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/states/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/states/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/states/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/states/load_screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/states/load_screen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/states/main_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/states/main_menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/pygame/SuperMario_download/source/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/pygame/SuperMario_download/source/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/Crawl book list.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/Crawl book list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/Crawl the Bilibili leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/Crawl the Bilibili leaderboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/book_list_20210219_113926.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/book_list_20210219_113926.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/book_list_20210219_114502.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/book_list_20210219_114502.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/book_list_20210222_142536.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/book_list_20210222_142536.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20201226_141952.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20201226_141952.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20210109_192135.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20210109_192135.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20210123_164314.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20210123_164314.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20210130_172912.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20210130_172912.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20210218_164048.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20210218_164048.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liu Mingshuai/reptile/top100_20210219_105420.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/reptile/top100_20210219_105420.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python books/Python知识手册-V3.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Python知识手册-V3.0.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python books/Python编程：从入门到实践.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Python编程：从入门到实践.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python books/编程小白的第一本Python入门书.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/编程小白的第一本Python入门书.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -221,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -386,7 +194,7 @@
       <workItem from="1614134023473" duration="5451000" />
       <workItem from="1614225096048" duration="10000" />
       <workItem from="1614225125262" duration="512000" />
-      <workItem from="1614225995928" duration="405000" />
+      <workItem from="1614225995928" duration="834000" />
     </task>
     <task id="LOCAL-00001" summary="更新文件">
       <created>1614048097974</created>
@@ -430,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614225514953</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="删除文件">
+      <created>1614226507631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614226507631</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
